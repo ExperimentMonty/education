@@ -1,0 +1,14 @@
+CORE CONCEPT
+
+-Get students interested in solar energy, coding, and microelectronics by
+installing solar panels on the school roof.
+
+What we'll need:
+-Solar panel and necessary wiring
+-Battery bank if we're not allowed to plug solar panel into the grid
+-Arduino/Raspberry Pi for monitoring
+-Case for Arduino/Raspberry Pi to keep it out of the elements
+-Approval of the school
+-Some kind of device to track the (voltage? watts? power?) coming off of the solar panels
+-The knowhow of all of these technologies to lead some school kids through this.
+-Server to store tracking information of how much we're getting from the solar panels.
